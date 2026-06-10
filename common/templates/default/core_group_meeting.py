@@ -5,7 +5,7 @@ from common.types import AgendaUsage, DialogueEntry
 
 
 class CoreGroupMeeting(SimpleTemplate):
-    name = "Core Group Meeting / CP Plan"
+    name = "Core Group Meeting / Child Protection Plan"
     category = "Social Care"
     description = "Record of Core Group Meeting and Child Protection Plan based on the RBKC Core Group Meeting template"
     citations_required = True
